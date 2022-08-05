@@ -1,0 +1,17 @@
+{
+    "title": "Utility",
+    "name": "utility",
+    "version": "1.0.0",
+    "package-type": "library",
+    "repository": "https://github.com/arikaim/utility-library.git",
+    "description": "Js utility helpers",
+    "files": [     
+    ],
+    "versions": {
+        "font-loader": {
+            "files": [
+                "https://cdn.jsdelivr.net/npm/webfontloader@1.6.28/webfontloader.min.js"
+            ]    
+        }
+    }
+}
