@@ -8,7 +8,7 @@
   
 
 #### Included js libraries 
-    *  [Flowbite](https://flowbite.com/)  - Js and Css files only
+  * [Flowbite](https://flowbite.com/)  - Js and Css files only
 
 
 #### Installation
