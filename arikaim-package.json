@@ -1,7 +1,7 @@
 {
     "title": "Utility",
     "name": "utility",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "package-type": "library",
     "repository": "https://github.com/arikaim/utility-library.git",
     "description": "Js utility helpers",
@@ -11,6 +11,17 @@
         "font-loader": {
             "files": [
                 "https://cdn.jsdelivr.net/npm/webfontloader@1.6.28/webfontloader.min.js"
+            ]    
+        },
+        "flowbite": {
+            "files": [
+                "flowbite/flowbite.min.js"
+            ]    
+        },
+        "flowbite-full": {
+            "files": [
+                "flowbite/flowbite.min.css",
+                "flowbite/flowbite.min.js"
             ]    
         }
     }

@@ -7,6 +7,10 @@
   * [Arikaim CMS](https://github.com/arikaim/arikaim)
   
 
+#### Included js libraries 
+    *  [Flowbite](https://flowbite.com/)  - Js and Css files only
+
+
 #### Installation
 
 ```sh
